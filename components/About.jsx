@@ -14,13 +14,11 @@ const About = () => {
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
            As a full-stack developer, I specialize in building responsive applications that seamlessly connect front-end UIs with APIs and other backend technologies. I am passionate about learning new technologies and believe that there is always more than one way to accomplish a task.
-           My skillset spans across both front-end and backend technologies, allowing me to build robust and scalable applications from scratch. I am proficient in front-end development using,HTML, CSS, and JavaScript As well as back-end using Nodejs,java,Spring-Boot,and have extensive experience working with React,NextJS to build dynamic and responsive user interfaces.
-          On the backend, I have experience working with various technologies, including Node.js, Express, and MongoDB. I can design and develop APIs, create and manage databases, and deploy applications to cloud platforms 
-
+           My skillset spans across both front-end and backend technologies, allowing me to build robust and scalable applications from scratch. I am proficient in front-end development using HTML, CSS, and JavaScript, as well as backend development using Node.js, Java, Spring Boot, and have extensive experience working with React and Next.js to build dynamic and responsive user interfaces.
+          On the backend, I have experience working with various technologies, including Node.js, Express, and MongoDB. I can design and develop APIs, create and manage databases, and deploy applications to cloud platforms.
           </p>
           <p className='py-2 text-gray-600'>
-           
-          I started my career in web development in 2022, managing multiple e-commerce websites  Since then, I have worked on various projects, ranging from small business websites to large-scale web applications.
+          I started my career in web development in 2022, managing multiple e-commerce websites. Since then, I have worked on various projects, ranging from small business websites to large-scale web applications.
           My passion for learning new technologies drives me to stay up-to-date with the latest trends and best practices in the industry.
           Overall, as a full-stack developer, I bring a unique combination of skills and expertise to every project. Whether it's building a new application from scratch or maintaining an existing one, I am committed to delivering high-quality work that meets the needs of my clients and end-users.
           </p>
